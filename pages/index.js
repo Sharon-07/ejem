@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Ejemplos en <a href="https://nextjs.org">Matlab</a>
+          Ejemplos en <a href="https://hammingolay.vercel.app/">Matlab</a>
         </h1>
 
         <div className={styles.grid}>
